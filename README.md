@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADHDFairy
-- 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m looking for an internship in frontend web development or software engineering
+- 🌱 I’m learning Swift, CSS, HTML, and Javascript currently.
 - 📫 How to reach me: Check out my linkedin (Katie Bue)
 
 <!---
